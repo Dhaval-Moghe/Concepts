@@ -1,3 +1,5 @@
+package hashing;
+
 import java.util.zip.CRC32;
 import java.nio.charset.StandardCharsets;
 import java.util.Arrays;
